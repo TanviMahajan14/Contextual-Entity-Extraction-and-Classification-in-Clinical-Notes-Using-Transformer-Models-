@@ -54,14 +54,6 @@ Transformer models, when fine-tuned on domain-specific data, drastically improve
 
 Careful handling of class imbalance, memory constraints, and hyperparameters is essential for high-impact NLP in healthcare.
 
-📁 Repository Structure
-bash
-Copy
-Edit
-📦 NLP_Clinical_Entity_Extraction/
-├── NLP_Project.ipynb       # Complete notebook with code, training, and evaluation
-├── Final_Project_Report.pdf # Full project report with methodology, results & references
-├── README.md               # This file
 🚀 Future Directions
 Incorporating larger and more diverse clinical datasets
 
