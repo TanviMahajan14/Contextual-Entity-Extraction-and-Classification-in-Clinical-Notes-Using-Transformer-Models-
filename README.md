@@ -6,6 +6,7 @@ This repository presents the code and findings of my Master's capstone project a
 Electronic Health Records (EHRs) contain valuable but unstructured clinical data. This project tackles the problem of contextual entity extraction and classification — identifying entities like diseases, medications, procedures, etc. — from clinical narratives using state-of-the-art Natural Language Processing (NLP) techniques.
 
 🔍 Problem Statement
+
 Goal: Extract and classify medical entities from free-text clinical notes using a deep learning approach.
 
 Challenges:
