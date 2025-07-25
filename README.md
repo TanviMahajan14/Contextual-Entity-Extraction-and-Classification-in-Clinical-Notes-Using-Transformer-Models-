@@ -1,4 +1,5 @@
 🧠 Contextual Entity Extraction and Classification in Clinical Notes Using Bio_ClinicalBERT
+
 This repository presents the code and findings of my Master's capstone project at Rutgers University, focused on Named Entity Recognition (NER) in clinical notes using advanced transformer-based models, specifically Bio_ClinicalBERT.
 
 📌 Project Overview
